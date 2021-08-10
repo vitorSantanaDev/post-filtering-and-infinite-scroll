@@ -8,6 +8,7 @@ This project is code for filtering posts and infinite scroll, in javascript.
 * 📌 This project is not hosted.
 
 # Project Layout 🎨
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/86623759/128863386-983eca1b-6dbc-4306-b931-1b652e822c4d.gif)
 
 
 
